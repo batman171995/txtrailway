@@ -1,0 +1,10 @@
+pyrogram
+tgcrypto
+requests
+pyromod
+git+https://github.com/AdrienAppCap/masked
+ffmpeg
+aiohttp
+aiofiles
+asyncio
+humanize
